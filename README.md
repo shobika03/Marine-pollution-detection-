@@ -26,9 +26,8 @@ This project focuses on detecting and classifying different types of marine wast
 https://app.roboflow.com/shobika-m/neural-ocean-db3sk/browse
 
 # Sample Output 
-Detected: Plastic (confidence: 94.2%)
-Detected: Cardboard (confidence: 87.6%)
-
+![Screenshot (338)](https://github.com/user-attachments/assets/fda7d41c-245c-4cb9-8d2c-7ecb44f3b770)
+![Screenshot (337)](https://github.com/user-attachments/assets/1b8fcc09-609c-41c2-b33f-0eb69bf3c613)
 
 # Future Improvements
 
